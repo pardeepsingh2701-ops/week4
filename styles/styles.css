@@ -1,0 +1,11 @@
+/* this is a CSS comment */
+
+body {
+    background-color:rgb(255, 197, 161);
+}
+
+/* this will apply style to all images on your page */
+img{
+    /* only style one dimension - width or height - to keep the image ratio */
+    height:350px;   
+}
